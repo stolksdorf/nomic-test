@@ -13,4 +13,4 @@ This is a test Round for Nomic
  * Scott
  * Kellen
 7. The first player to reach 100 points wins the game.
-8. This game ends on September 1st 2015, midnight. The player with the highest point value at this time wins the game.
+8. This game ends on September 1st 2015, midnight. The player whose point value is closest to the winning score (see Rule #7) at this time wins the game.
