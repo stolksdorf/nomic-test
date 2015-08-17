@@ -71,5 +71,7 @@ This is a test Round for Nomic
 
 ----
 
+108: **Rule of LP is Best.**
+> LP is best. There are no exceptions to this rule.
 
-
+---
