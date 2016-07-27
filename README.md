@@ -1,9 +1,12 @@
 # Nomic-test
 This is a test Round for Nomic
 
-![](https://nomicbot.herokuapp.com/)
-
 ## Rules
+
+##### 000: **Have Fun!**
+> Everyone must have fun.
+
+----
 
 ##### 101: **Victory Condition**
 > No one can ever win at this game. Ever.
