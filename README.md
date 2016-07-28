@@ -5,6 +5,8 @@ This is a test Round for Nomic
 
 ## Rules
 
+test
+
 #### 101: **Victory Condition**
 > No one can ever win at this game. Ever.
 
