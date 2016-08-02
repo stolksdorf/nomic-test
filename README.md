@@ -6,7 +6,7 @@ This is a test Round for Nomic
 ## Rules
 
 #### 101: **Victory Condition**
-> No one can ever win at this game. Ever.
+> One person can win this game one time. Ever.
 
 <sup>[[0](https://github.com/stolksdorf/nomic-test/pull/1)]</sup>
 
