@@ -70,5 +70,8 @@ This is a test Round for Nomic
 
 ----
 
+001: **Rule of LP Best**
+> LP is best. 
 
+[0]
 
